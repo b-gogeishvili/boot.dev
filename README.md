@@ -1,4 +1,4 @@
-[Boot.Dev](https://www.boot.dev/) is a collection of courses that help you to become back-end developer. 
+[Boot.Dev](https://www.boot.dev/) is a collection of courses that help you become back-end developer. 
 
 See the [curriculum](https://github.com/bootdotdev/curriculum).
 

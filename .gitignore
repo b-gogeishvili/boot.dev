@@ -1,3 +1,21 @@
+# Python
+.env/
+.venv/
+__pypackages__/
+__pychache__/
+*.pyc
+*.so
+*$py.class
+*.py[cod]
+
+# MAC OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# WebFlyx
 secure/
 guilty_pleasures.md
 advert.html
